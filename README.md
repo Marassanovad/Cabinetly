@@ -102,4 +102,3 @@ yarn start
 * Аутентификация через `next-auth` (например, с поддержкой OAuth или email/password)
 * Хеширование паролей через `bcryptjs`
 * Защита приватных страниц через middleware и серверные проверки
-# Cabinetly
