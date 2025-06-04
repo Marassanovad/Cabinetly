@@ -43,7 +43,7 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone <репозиторий>
+   git clone https://github.com/Marassanovad/Cabinetly
    cd cabinetly
    ```
 
